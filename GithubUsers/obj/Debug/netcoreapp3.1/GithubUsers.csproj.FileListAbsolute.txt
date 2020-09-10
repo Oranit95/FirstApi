@@ -17,3 +17,4 @@ C:\Users\Oranit\source\repos\GithubUsers\GithubUsers\obj\Debug\netcoreapp3.1\Git
 C:\Users\Oranit\source\repos\GithubUsers\GithubUsers\obj\Debug\netcoreapp3.1\GithubUsers.genruntimeconfig.cache
 C:\Users\Oranit\source\repos\GithubUsers\GithubUsers\obj\Debug\netcoreapp3.1\GithubUsers.csproj.CoreCompileInputs.cache
 C:\Users\Oranit\source\repos\GithubUsers\GithubUsers\obj\Debug\netcoreapp3.1\GithubUsers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oranit\source\repos\GithubUsers\GithubUsers\obj\Debug\netcoreapp3.1\GithubUsers.csprojAssemblyReference.cache

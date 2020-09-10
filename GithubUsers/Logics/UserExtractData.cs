@@ -14,9 +14,9 @@ namespace GithubUsers.Logics
         private readonly IGitHubUsersRepository _gitUsers;
 
         private string domain { get; set; }
-        public UserExtractData(IConfiguration configuration)
+        public UserExtractData(IConfiguration configuration, IGitHubUsersRepository gitHubUsersRepository)
         {
-            _gitUsers = new GitHubUsersRepository();
+            _gitUsers = gitHubUsersRepository;
             domain = configuration.GetSection("AppSettings:GitHub:Domain")?.Value;
         }
         public UserExtractData()
